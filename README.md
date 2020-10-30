@@ -5,7 +5,7 @@ Um joguinho de Pedra, Papel e Tesoura
 
 > Apenas dê esse comando:
 
-git clone + link do scrit
+git clone https://github.com/lucas-Dk/Game
 
 cd Game
 
